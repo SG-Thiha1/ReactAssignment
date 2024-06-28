@@ -1,0 +1,28 @@
+h2 {
+  text-align: center;
+}
+
+.container-section {
+  margin: 0 auto;
+  max-width: 50rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.option-selects {
+  margin: 3rem;
+}
+
+.form {
+  margin: 3rem;
+}
+
+.form-group {
+  display: flex;
+  margin-bottom: 0.5rem;
+}
+.form-group label {
+  min-width: 10rem;
+  text-align: right;
+  margin-right: 1rem;
+}
